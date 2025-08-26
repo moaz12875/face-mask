@@ -48,6 +48,8 @@ Several models were trained and compared for accuracy and generalization:
 
 ---
 ## How to use
+Use our demo on Hugging Face Spaces:
+
 [👉Try it live](https://huggingface.co/spaces/Moaz-ai/facemask)
 
 ## 📒 Notebook
