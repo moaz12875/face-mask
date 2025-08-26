@@ -61,7 +61,7 @@ Included Jupyter Notebook (`notebooks/train_face_mask.ipynb`) for:
 - **Plotting Loss/Accuracy Curves**  
 - **Classification Reports**
 - 
-[View on colab](https://colab.research.google.com/drive/1chIbzk77Qx0lVEby71agiKIq2MnLS50I#scrollTo=56H4t4Tt_6z)
+[📓 Notebook View on colab](https://colab.research.google.com/drive/1chIbzk77Qx0lVEby71agiKIq2MnLS50I#scrollTo=56H4t4Tt_6z)
 ---
 
 ## ⚠️ Challenges & Solutions
